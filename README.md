@@ -4,4 +4,4 @@ This project is not open source. All rights reserved. Unauthorized use, modifica
 
 No permission is granted to modify, redistribute, or reuse the code.
 
-You may, however, report bugs via: https://discord.gg/Jp4KhSmr   NOTE, DO NOT SPAM AND OR TROLL.
+You may, however, report bugs via: https://discord.gg/meZf5wJZ5b   NOTE, DO NOT SPAM AND OR TROLL.
