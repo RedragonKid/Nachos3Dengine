@@ -1,7 +1,3 @@
 # Nachos 3D Engine
 
-This project is not open source.
-
-No permission is granted to modify, redistribute, or reuse the code.
-
-You may, however, report bugs via: https://discord.gg/vkeN3FnvUw   NOTE, DO NOT SPAM AND OR TROLL.
+Report bugs via: https://discord.gg/vkeN3FnvUw   NOTE, DO NOT SPAM AND OR TROLL.
